@@ -17,6 +17,8 @@ public class Main {
         Car car2 = new Car();
         Car car3 = new Car(20, 50,
                 1, 2);
+        Car car4 = new Car(25, 20,
+                2, 4);
 //        Car car4 = new Car(30, 60,
 //                2, 3);
 
